@@ -1,3 +1,5 @@
+""" Evaluate the following expressions
+Arithmetic mean of the numbers 8, 7, 4, 2"""
 number_1 = 8
 number_2 = 7
 number_3 = 4
