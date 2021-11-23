@@ -1,3 +1,7 @@
+"""There are coins of 1, 2 and 5 Polish Zlotys (PLN). 
+Write a program showing any amount (natural number) read from the keyboard with as few coins as possible.
+
+Enter the amount in PLN: 18 The amount of PLN 18 in coins: 5 zł – 3 2 zł – 1 1 zł – 1"""
 kwota = int(input())
   
 ilość_monet_5 = kwota//5
